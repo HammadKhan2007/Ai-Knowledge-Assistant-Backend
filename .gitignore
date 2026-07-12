@@ -4,7 +4,7 @@
 # Virtual Environment
 venv/
 
-# Local Uploads and cache
+# Local Uploads and the cache
 uploads/
 __pycache__/
 *.pyc
