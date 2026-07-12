@@ -1,0 +1,13 @@
+# Sensitive files (API Keys)
+.env
+
+# Virtual Environment
+venv/
+
+# Local Uploads and cache
+uploads/
+__pycache__/
+*.pyc
+
+# Local vector store data (if any is generated locally)
+faiss_index/
